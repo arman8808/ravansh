@@ -1002,7 +1002,7 @@ header.style1 .logo,
 header.style2 .logo,
 header.style3 .logo,
 header.style4 .logo {
-  padding-top: 15px;
+  padding: 15px;
   float: left;
 }
 
