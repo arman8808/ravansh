@@ -8131,6 +8131,9 @@ iframe .widget.g-background-default {
   margin-bottom: 30px;
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(11, 11, 11, 0.8)),
     url("../image/3.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .fifth_column > img {
   width: 100%;
